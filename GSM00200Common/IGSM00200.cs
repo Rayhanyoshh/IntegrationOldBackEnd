@@ -1,5 +1,4 @@
 ﻿using System.Collections.Generic;
-using GSM00200Common;
 using R_CommonFrontBackAPI;
 
 namespace GSM00200Common
