@@ -3,7 +3,7 @@ Imports R_BackEnd
 Imports System.Data.Common
 Imports System.Data
 Imports R_CommonFrontBackAPI
-Imports GSM00200Comoon
+Imports GSM00200Common
 
 Public Class GSM00200Cls
     Inherits R_BusinessObject(Of GSM00200DTO

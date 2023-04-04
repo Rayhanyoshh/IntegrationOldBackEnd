@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GSM00200Comoon
+namespace GSM00200Common
 {
     public class GSM00200DTOnon
     {
